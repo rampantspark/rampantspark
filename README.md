@@ -1,1 +1,1 @@
-# rampantspark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampantspark&show_icons=true&theme=synthwave)
