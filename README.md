@@ -1,8 +1,4 @@
-# Howdy!
 
-My name is Anthony Lyons, I am a programmer transitioning into information security. I enjoy reading, building things, reversing malware, and breaking encryption.
-
-My skills are virtualization/emulation, secure code, malware analysis, and pwning boxes.
 
 ![GitHub stats](https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&theme=synthwave&count_private=true)
 
