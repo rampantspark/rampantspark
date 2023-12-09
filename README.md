@@ -2,15 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-rampant-7envvm7ey-rampantspark.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="Anurag's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-rampant-7envvm7ey-rampantspark.vercel.app/api/top-langs/?username=rampantspark&layout=compact&theme=synthwave&hide_border=true&count_private=true" /></a>
 
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rampantspark&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rampantspark&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+#### Top Repositorie
 
 ![GitHub stats](https://github-readme-stats-rampant-7envvm7ey-rampantspark.vercel.app/api?username=rampantspark&show_icons=true&theme=synthwave&count_private=true)
 
