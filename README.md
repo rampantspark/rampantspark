@@ -1,5 +1,5 @@
 <a href="https://github.com/rampantspark/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&hide_border=true" alt="rampantspark's github stats"/>
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&bg_color=30,D5629B,462570&hide_border=true" alt="rampantspark's github stats"/>
 </a>
 
 <br/>
