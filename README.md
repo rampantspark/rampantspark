@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/rampantspark/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/pin/?username=rampantspark&repo=rampant-dots&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/pin/?username=rampantspark&repo=rampant-dots&hide_border=true&theme=synthwave" />
 </a>
 
 <br/>
