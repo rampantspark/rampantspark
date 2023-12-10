@@ -1,3 +1,15 @@
-| <a href="https://github.com/rampantspark/github-readme-stats"><img align="center" src="https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="rampantspark's github stats" /></a> <br/>  | <a href="https://github.com/rampantspark/github-readme-stats"><img align="center" src="https://github-readme-stats-rampant.vercel.app/api/top-langs/?username=rampantspark&layout=pie&theme=synthwave&hide_border=true&langs_count=10&hide=css,html,asp.net" /></a> |
-| ------------- | ------------- |
-| <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/pin/?username=rampantspark&repo=rampant-dots&theme=synthwave" /> | |
+<a href="https://github.com/rampantspark/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="rampantspark's github stats"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/rampantspark/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/top-langs/?username=rampantspark&layout=pie&theme=synthwave&hide_border=true&langs_count=10&hide=css,html,asp.net" />
+</a>
+
+<br/>
+
+<a href="https://github.com/rampantspark/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/pin/?username=rampantspark&repo=rampant-dots&theme=synthwave" />
+</a>a
