@@ -1,5 +1,5 @@
 <a href="https://github.com/rampantspark/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&bg_color=462570&text_color=D5629B&title_color=D5629B&icon_colo=D5629Br&hide_border=true&card_width=200px" alt="rampantspark's github stats"/>
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api?username=rampantspark&show_icons=true&include_all_commits=true&bg_color=462570&text_color=D5629B&title_color=D5629B&icon_color=D5629Br&hide_border=true&card_width=200px" alt="rampantspark's github stats"/>
 </a>
 
 <br/>
