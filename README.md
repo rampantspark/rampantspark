@@ -3,5 +3,5 @@
 </a>
 <br>
 <a href="https://github.com/rampantspark/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/top-langs/?username=rampantspark&layout=pie&hide_border=true&langs_count=10&hide=css,html,asp.net&theme=gruvbox"/>
+  <img align="center" src="https://github-readme-stats-rampant.vercel.app/api/top-langs/?username=rampantspark&layout=donut&hide_border=true&langs_count=10&hide=css,html,asp.net&theme=gruvbox"/>
 </a>
